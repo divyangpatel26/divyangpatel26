@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyangpatel26&label=Profile%20views&color=0e75b6&style=flat" alt="divyangpatel26" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently working in python,**Django**,html,css,js,bootstrap,wordpress,seo and many more.
 
 - 💬 Ask me about **Python and Django**
 
