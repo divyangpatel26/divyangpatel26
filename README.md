@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python and Django**
 
-- 📫 How to reach me **divyangpatel5358@gmail.com**
+- 📫 How to reach me **contact.divyangpatel@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
