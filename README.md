@@ -2,7 +2,7 @@
 <h1 align="center">Hi there👋, I'm Divyangkumar Patel</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<img align="right" alt="coding" width="350" src="https://res.cloudinary.com/degc3aacg/image/upload/v1742392124/data_analyst_gif_m2tqcw.gif">
+<img align="right" alt="coding" width="350" src="[https://res.cloudinary.com/degc3aacg/image/upload/v1742392124/data_analyst_gif_m2tqcw.gif](https://res.cloudinary.com/degc3aacg/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1742392124/data_analyst_gif_m2tqcw.gif)">
 
 - 🌱 I’m skilled in **Power BI, MySQL, Python, Pandas, NumPy and Advanced Excel**
 
