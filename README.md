@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **divyangpatel5358@gmail.com**
 
-- 📄 Know about my experiences [https://divyangpatel.in/divyangkumar_patel_resume.pdf](https://divyangpatel.in/divyangkumar_patel_resume.pdf)
+- 📄 Know about my experiences [Resume](https://divyangpatel.in/divyangkumar_patel_resume.pdf)
 
 - ⚡ Data analysts are often called **"Number Whisperers" because they translate raw data into meaningful business insights.**
 
