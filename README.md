@@ -1,8 +1,8 @@
 [![MasterHead](https://res.cloudinary.com/degc3aacg/image/upload/v1742391124/coding_gif_umygpy.gif)](https://divyangpatel.in)
 <h1 align="center">Hi there👋, I'm Divyangkumar Patel</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-[![data-analyst-gif.gif](https://i.postimg.cc/QdkBkkvf/data-analyst-gif.gif)](https://postimg.cc/3kNJ3p8G)
-<img align="right" alt="coding" width="350" src="https://res.cloudinary.com/degc3aacg/image/upload/data_analyst_gif_m2tqcw.gif">
+
+<img align="right" alt="coding" width="350" src="https://i.postimg.cc/QdkBkkvf/data-analyst-gif.gif">
 
 - 🌱 I’m skilled in **Power BI, MySQL, Python, Pandas, NumPy and Advanced Excel**
 
