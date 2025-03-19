@@ -10,7 +10,7 @@
 
 - 🌱 I’m skilled in **Power BI, MySQL, Python, Pandas, NumPy and Advanced Excel**
 
-- 👨‍💻 All of my projects are available at [https://divyangpatel.in](https://divyangpatel.in)
+- 👨‍💻 All of my projects are available at [Portfolio](https://divyangpatel.in)
 
 - 📫 How to reach me **divyangpatel5358@gmail.com**
 
