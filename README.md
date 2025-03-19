@@ -1,7 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/degc3aacg/image/upload/v1742391124/coding_gif_umygpy.gif)](https://divyangpatel.in)
 <h1 align="center">Hi there👋, I'm Divyangkumar Patel</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-<iframe align="right" alt="Coding" width="400" src="https://lottie.host/embed/723b8ea4-2c01-49fe-8d79-614f52526068/NSDPdVQOMV.lottie"></iframe>
+<img align="right" alt="Coding" width="400" src="https://lottie.host/embed/723b8ea4-2c01-49fe-8d79-614f52526068/NSDPdVQOMV.lottie"/>
 
 - 🌱 I’m skilled in **Power BI, MySQL, Python, Pandas, NumPy and Advanced Excel**
 
