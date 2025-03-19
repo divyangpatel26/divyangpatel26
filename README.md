@@ -1,7 +1,10 @@
 [![MasterHead](https://res.cloudinary.com/degc3aacg/image/upload/v1742391124/coding_gif_umygpy.gif)](https://divyangpatel.in)
 <h1 align="center">Hi there👋, I'm Divyangkumar Patel</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-![Coding](https://res.cloudinary.com/degc3aacg/image/upload/v1742392124/data_analyst_gif_m2tqcw.gif)
+<p align="center">
+  <img src="https://res.cloudinary.com/degc3aacg/image/upload/v1742392124/data_analyst_gif_m2tqcw.gif" width="400" alt="Coding">
+</p>
+
 
 
 
