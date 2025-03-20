@@ -1,5 +1,5 @@
 <a href="https://divyangpatel.in">
-  <img src="https://res.cloudinary.com/degc3aacg/image/upload/v1742391124/coding_gif_umygpy.gif" alt="MasterHead" width="800" height="400">
+  <img src="https://res.cloudinary.com/degc3aacg/image/upload/v1742391124/coding_gif_umygpy.gif" alt="MasterHead" width="800" height="500">
 </a>
 <h1 align="center">Hi there👋, I'm Divyangkumar Patel</h1>
 <h3 align="center">A passionate Data Analyst</h3>
