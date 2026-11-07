@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/degc3aacg/image/upload/v1742391124/coding_gif_umygpy.gif)](https://divyangpatel.in)
+[![MasterHead](https://res.cloudinary.com/degc3aacg/image/upload/v1794038400/github_profile_banner_spuobm.gif)](https://divyangpatel.in)
 <h1 align="center">Hi there👋, I'm Divyangkumar Patel</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/degc3aacg/image/upload/v1742395219/data_analyst_chfzlt.gif">
